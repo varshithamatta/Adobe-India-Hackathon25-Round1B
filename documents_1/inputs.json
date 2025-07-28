@@ -1,0 +1,35 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "retail_sales_trend_analysis",
+    "description": "Persona-based Document Intelligence for Sales Strategy Development in Organic Grocery Sector"
+  },
+  "documents": [
+    {
+      "filename": "Quarterly_Sales_Report_Q1.pdf",
+      "title": "Quarterly Sales Report - Q1"
+    },
+    {
+      "filename": "Quarterly_Sales_Report_Q2.pdf",
+      "title": "Quarterly Sales Report - Q2"
+    },
+    {
+      "filename": "Quarterly_Sales_Report_Q3.pdf",
+      "title": "Quarterly Sales Report - Q3"
+    },
+    {
+      "filename": "Quarterly_Sales_Report_Q4.pdf",
+      "title": "Quarterly Sales Report - Q4"
+    },
+    {
+      "filename": "Market_Research_Organic_Trends.pdf",
+      "title": "Market Research Study: Consumer Trends in Organic Grocery"
+    }
+  ],
+  "persona": {
+    "role": "Regional Sales Manager"
+  },
+  "job_to_be_done": {
+    "task": "Analyze sales trends, product performance, and customer preferences to develop a targeted strategy for increasing sales of organic produce in underperforming stores."
+  }
+}

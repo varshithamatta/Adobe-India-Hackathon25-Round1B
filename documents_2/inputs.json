@@ -1,0 +1,31 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "type2_diabetes_management",
+    "description": "Persona-based Document Intelligence for T2D Management"
+  },
+  "documents": [
+    {
+      "filename": "ADA_Type2Diabetes_Guideline_2025.pdf",
+      "title": "Clinical Practice Guideline on Type 2 Diabetes Management"
+    },
+    {
+      "filename": "GLP1RA_Cardiovascular_Outcomes_Summary.pdf",
+      "title": "GLP-1 Receptor Agonists and Cardiovascular Outcomes"
+    },
+    {
+      "filename": "SGLT2_Inhibitors_CKD_Type2Diabetes_Guidelines_Review.pdf",
+      "title": "SGLT2 Inhibitors in CKD and Type 2 Diabetes"
+    },
+    {
+      "filename": "Patient_Lifestyle_Education_Protocol_Type2Diabetes.pdf",
+      "title": "Patient Education and Lifestyle Intervention Protocol"
+    }
+  ],
+  "persona": {
+    "role": "Primary Care Physician"
+  },
+  "job_to_be_done": {
+    "task": "Summarize the latest evidence-based best practices on managing newly diagnosed Type 2 diabetes patients, and develop a stepwise treatment plan tailored to patient comorbidities that can be applied in a primary care setting."
+  }
+}

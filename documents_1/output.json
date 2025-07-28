@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Quarterly_Sales_Report_Q1.pdf",
+      "Quarterly_Sales_Report_Q2.pdf",
+      "Quarterly_Sales_Report_Q3.pdf",
+      "Quarterly_Sales_Report_Q4.pdf",
+      "Market_Research_Organic_Trends.pdf"
+    ],
+    "persona": "Regional Sales Manager",
+    "job_to_be_done": "Analyze sales trends, product performance, and customer preferences to develop a targeted strategy for increasing sales of organic produce in underperforming stores.",
+    "processing_timestamp": "2025-07-28T13:47:00.000000"
+  },
+  "extracted_sections": [
+    {
+      "document": "Quarterly_Sales_Report_Q1.pdf",
+      "section_title": "Customer Trends: Increased demand for leafy greens and organic berries",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Market_Research_Organic_Trends.pdf",
+      "section_title": "Demographics: Millennials and Gen Z drive organic growth",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Quarterly_Sales_Report_Q4.pdf",
+      "section_title": "Holiday spike in organic root vegetables",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Quarterly_Sales_Report_Q2.pdf",
+      "section_title": "Customer Trends: Rise in organic snack purchases",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Market_Research_Organic_Trends.pdf",
+      "section_title": "Strategy: Expand digital couponing and product sampling programs",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Quarterly_Sales_Report_Q1.pdf",
+      "refined_text": "Analysis shows a notable increase in sales of organic leafy greens and berries across high-performing stores. This trend is strongest in urban locations with health-conscious consumers. Promotional bundling and in-store displays may drive further growth in similar regions.",
+      "page_number": 1
+    },
+    {
+      "document": "Market_Research_Organic_Trends.pdf",
+      "refined_text": "Millennials and Gen Z prioritize organic foods, driven by health, sustainability, and transparency. These demographics are particularly responsive to digital engagement and eco-labeling. Marketing strategies should be tailored toward these values to capture market share.",
+      "page_number": 1
+    },
+    {
+      "document": "Quarterly_Sales_Report_Q4.pdf",
+      "refined_text": "Holiday periods saw a surge in organic root vegetable purchases, particularly carrots, parsnips, and beets. Underperforming stores did not reflect this spike, suggesting a missed opportunity in seasonal planning and inventory alignment.",
+      "page_number": 1
+    },
+    {
+      "document": "Quarterly_Sales_Report_Q2.pdf",
+      "refined_text": "Organic snack items, including bars, dried fruit, and seed mixes, grew in popularity in Q2. Performance correlated with end-cap placements and bundled pricing strategies in top stores. Underperforming locations showed minimal visibility of these items.",
+      "page_number": 1
+    },
+    {
+      "document": "Market_Research_Organic_Trends.pdf",
+      "refined_text": "Consumer studies recommend scaling digital couponing for organic goods and running localized sampling programs in low-performing stores to increase trial rates. Messaging around health benefits and sourcing transparency also improves conversion.",
+      "page_number": 2
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "input_documents": [
+      "ADA_Type2Diabetes_Guideline_2025.pdf",
+      "GLP1RA_Cardiovascular_Outcomes_Summary.pdf",
+      "SGLT2_Inhibitors_CKD_Type2Diabetes_Guidelines_Review.pdf",
+      "Patient_Lifestyle_Education_Protocol_Type2Diabetes.pdf"
+    ],
+    "persona": "Primary Care Physician",
+    "job_to_be_done": "Summarize the latest evidence-based best practices on managing newly diagnosed Type 2 diabetes patients, and develop a stepwise treatment plan tailored to patient comorbidities that can be applied in a primary care setting.",
+    "processing_timestamp": "2025-07-28T20:12:00.000000"
+  },
+  "extracted_sections": [
+    {
+      "document": "ADA_Type2Diabetes_Guideline_2025.pdf",
+      "section_title": "Initial Management: Lifestyle interventions and Metformin initiation",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "SGLT2_Inhibitors_CKD_Type2Diabetes_Guidelines_Review.pdf",
+      "section_title": "SGLT2 Inhibitors in CKD and Cardiovascular Risk Reduction",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "GLP1RA_Cardiovascular_Outcomes_Summary.pdf",
+      "section_title": "GLP-1 RA Benefits in Atherosclerotic Cardiovascular Disease (ASCVD)",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Patient_Lifestyle_Education_Protocol_Type2Diabetes.pdf",
+      "section_title": "Structured Patient Education and Self-Management Strategies",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "ADA_Type2Diabetes_Guideline_2025.pdf",
+      "section_title": "Individualized Treatment Algorithm Based on Comorbidities",
+      "importance_rank": 5,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "ADA_Type2Diabetes_Guideline_2025.pdf",
+      "refined_text": "The ADA 2025 guideline emphasizes early intervention using lifestyle modification and metformin as the first-line treatment for newly diagnosed patients. It highlights the importance of nutrition, physical activity, and weight loss targets for glycemic control.",
+      "page_number": 3
+    },
+    {
+      "document": "SGLT2_Inhibitors_CKD_Type2Diabetes_Guidelines_Review.pdf",
+      "refined_text": "SGLT2 inhibitors are recommended for patients with CKD or high cardiovascular risk, as they provide renal protection and reduce major cardiovascular events. Benefits are independent of glycemic control.",
+      "page_number": 2
+    },
+    {
+      "document": "GLP1RA_Cardiovascular_Outcomes_Summary.pdf",
+      "refined_text": "GLP-1 receptor agonists significantly reduce major adverse cardiovascular events in patients with established ASCVD. They are especially useful in patients where weight loss and cardiovascular protection are priorities.",
+      "page_number": 1
+    },
+    {
+      "document": "Patient_Lifestyle_Education_Protocol_Type2Diabetes.pdf",
+      "refined_text": "Effective patient education includes goal-setting, dietary coaching, exercise planning, and self-monitoring. Engaging patients early through structured programs improves long-term adherence and glycemic outcomes.",
+      "page_number": 1
+    },
+    {
+      "document": "ADA_Type2Diabetes_Guideline_2025.pdf",
+      "refined_text": "Treatment should be tailored based on comorbidities. For patients with ASCVD, GLP-1 RAs are prioritized; SGLT2 inhibitors are preferred for HF or CKD. Dual or triple therapy may be initiated earlier in certain populations.",
+      "page_number": 5
+    }
+  ]
+}

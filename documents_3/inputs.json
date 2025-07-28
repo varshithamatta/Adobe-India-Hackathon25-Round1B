@@ -1,0 +1,27 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "mobile_banking_accessibility",
+    "description": "Persona-based Document Intelligence for Mobile App Accessibility Testing"
+  },
+  "documents": [
+    {
+      "filename": "User_Feedback_Summary_Report.pdf",
+      "title": "User Feedback Analysis - Accessibility Issues in Mobile Banking App"
+    },
+    {
+      "filename": "Usability_Study_Findings.pdf",
+      "title": "Usability Study Report - Visual Accessibility in Banking App Interfaces"
+    },
+    {
+      "filename": "Interface_Improvement_Proposal.pdf",
+      "title": "Accessibility-Driven Interface Enhancements for Mobile Banking App"
+    }
+  ],
+  "persona": {
+    "role": "UX Designer"
+  },
+  "job_to_be_done": {
+    "task": "Identify major usability pain points for users with visual impairments and propose actionable interface improvements to meet accessibility standards."
+  }
+}
